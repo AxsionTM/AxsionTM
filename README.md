@@ -38,6 +38,7 @@
 
 - [**telegram-crm-bot**](https://github.com/AxsionTM/telegram-crm-bot) — CRM-система внутри Telegram-бота: заявки, статусы, Excel и email-уведомления
 - [**wildberries-tracker**](https://github.com/AxsionTM/wildberries-tracker) — мониторинг цен и наличия товаров Wildberries с Telegram Mini App
+- [**wildberries-tracker**](https://github.com/AxsionTM/nexora-system) — мониторинг цен и наличия товаров Wildberries с Telegram Mini App
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
