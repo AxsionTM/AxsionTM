@@ -36,9 +36,21 @@
 
 ## Проекты
 
+- [**TaskFlow**](https://github.com/AxsionTM/TaskFlow) — серьёзная полноценная productivity-платформа для управления задачами, проектами, привычками, целями и фокусом. Проект разработан как масштабируемое веб-приложение с отдельными адаптивными интерфейсами для **ПК, планшетов и мобильных устройств**, включая iPhone. Реализованы календарь, граф взаимосвязей задач, подзадачи, напоминания, Pomodoro, привычки, цели, AI-инструменты, темы оформления и персональный профиль. Особое внимание уделено современному UX/UI, производительности и удобству работы на разных устройствах.
+
+  [![Status](https://img.shields.io/badge/Status-ONLINE-22c55e?style=for-the-badge)](https://github.com/AxsionTM/TaskFlow)
+  [![Usage](https://img.shields.io/badge/Usage-FREE-38bdf8?style=for-the-badge)](https://github.com/AxsionTM/TaskFlow)
+  [![Responsive](https://img.shields.io/badge/Responsive-PC%20%7C%20Tablet%20%7C%20Mobile-a855f7?style=for-the-badge)](https://github.com/AxsionTM/TaskFlow)
+
+  🌐 **Проект подключён к хостингу и доступен онлайн**  
+  🆓 **На данный момент полностью бесплатен для использования**  
+  🚀 **Проект активно развивается — новые функции, улучшения и идеи продолжают добавляться**
+
 - [**telegram-crm-bot**](https://github.com/AxsionTM/telegram-crm-bot) — CRM-система внутри Telegram-бота: заявки, статусы, Excel и email-уведомления
+
 - [**wildberries-tracker**](https://github.com/AxsionTM/wildberries-tracker) — мониторинг цен и наличия товаров Wildberries с Telegram Mini App
-- [**Nexora-system**](https://github.com/AxsionTM/nexora-system) — Проект создан как учебный и портфолио-кейс для изучения разработки Telegram-ботов, интеграции внешних AI API и создания Telegram Mini Apps.
+
+- [**Nexora-system**](https://github.com/AxsionTM/Nexora-system) — учебный и портфолио-проект для изучения разработки Telegram-ботов, интеграции внешних AI API и создания Telegram Mini Apps
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
